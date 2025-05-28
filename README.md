@@ -70,8 +70,6 @@
 
 ![image](https://github.com/user-attachments/assets/bd7f409a-561e-4ee6-a5c1-be571a373c62)
 
-└──────────────┘
-
 ### 5.2. Подробный стек
 
 | Слой          | Технологии                                                                 | Причина выбора                                        |
