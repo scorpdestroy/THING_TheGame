@@ -68,16 +68,9 @@
 
 ### 5.1. Схема высокого уровня
 
-┌───────────────┐ ┌──────────────┐
-│ Клиент PWA │ ⇆ WSS/HTTPS ⇆ │ Node.js API │
-│ (React+Vite) │ │ & Socket │
-└───────────────┘ └──────┬───────┘
-│
-▼
-┌──────────────┐
-│ Redis (RAM) │ ← state snapshot
-└──────────────┘
+![image](https://github.com/user-attachments/assets/bd7f409a-561e-4ee6-a5c1-be571a373c62)
 
+└──────────────┘
 
 ### 5.2. Подробный стек
 
